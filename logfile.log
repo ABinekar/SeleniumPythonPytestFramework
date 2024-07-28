@@ -1,0 +1,44 @@
+2024-07-28 14:13:08,979 :INFO :test_e2e1 :Just clicking on Home button
+2024-07-28 14:13:10,536 :INFO :test_e2e1 :Navigate Back
+2024-07-28 14:13:10,557 :INFO :test_e2e2 :Just clicking on Practice button
+2024-07-28 14:16:49,822 :INFO :test_e2e1 :Just clicking on Home button
+2024-07-28 14:16:51,348 :INFO :test_e2e1 :Navigate Back
+2024-07-28 14:16:51,361 :INFO :test_e2e2 :Just clicking on Practice button
+2024-07-28 14:20:31,054 :INFO :test_e2e1 :Just clicking on Home button
+2024-07-28 14:20:33,286 :INFO :test_e2e1 :Navigate Back
+2024-07-28 14:20:33,300 :INFO :test_e2e2 :Just clicking on Practice button
+2024-07-28 14:23:43,373 :INFO :test_e2e1 :Just clicking on Home button
+2024-07-28 14:23:46,502 :INFO :test_e2e1 :Navigate Back
+2024-07-28 14:23:46,535 :INFO :test_e2e2 :Just clicking on Practice button
+2024-07-28 14:23:55,894 :INFO :test_e2e_login : Just clicking on Home button
+2024-07-28 14:24:09,610 :INFO :test_e2e_login : Just clicking on Login button
+2024-07-28 14:24:10,187 :INFO :test_e2e_login : Just enter email
+2024-07-28 14:24:10,472 :INFO :test_e2e_login : Just enter password
+2024-07-28 14:25:24,231 :INFO :test_e2e1 :Just clicking on Home button
+2024-07-28 14:25:25,843 :INFO :test_e2e1 :Navigate Back
+2024-07-28 14:25:25,866 :INFO :test_e2e2 :Just clicking on Practice button
+2024-07-28 14:25:32,786 :INFO :test_e2e_login : Just clicking on Home button
+2024-07-28 14:25:37,598 :INFO :test_e2e_login : Just clicking on Login button
+2024-07-28 14:25:38,040 :INFO :test_e2e_login : Just enter email anantbinekar@gmail.com
+2024-07-28 14:25:38,232 :INFO :test_e2e_login : Just enter password any@0000
+2024-07-28 14:26:19,386 :INFO :test_e2e1 :Just clicking on Home button
+2024-07-28 14:26:20,237 :INFO :test_e2e1 :Navigate Back
+2024-07-28 14:26:20,237 :INFO :test_e2e2 :Just clicking on Practice button
+2024-07-28 14:26:27,818 :INFO :test_e2e_login : Just click on Home button
+2024-07-28 14:26:33,501 :INFO :test_e2e_login : Just click on Login button
+2024-07-28 14:26:33,770 :INFO :test_e2e_login : Just enter email as anantbinekar@gmail.com
+2024-07-28 14:26:33,934 :INFO :test_e2e_login : Just enter password as any@0000
+2024-07-28 15:05:32,446 :INFO :test_e2e1 :Just clicking on Home button
+2024-07-28 15:05:33,905 :INFO :test_e2e1 :Navigate Back
+2024-07-28 15:05:33,920 :INFO :test_e2e2 :Just clicking on Practice button
+2024-07-28 15:05:41,226 :INFO :test_e2e_login : Just click on Home button
+2024-07-28 15:05:47,636 :INFO :test_e2e_login : Just click on Login button
+2024-07-28 15:05:47,956 :INFO :test_e2e_login : Just enter email as anantbinekar@gmail.com
+2024-07-28 15:05:48,118 :INFO :test_e2e_login : Just enter password as any@0000
+2024-07-28 15:07:35,434 :INFO :test_e2e1 :Just clicking on Home button
+2024-07-28 15:07:38,161 :INFO :test_e2e1 :Navigate Back
+2024-07-28 15:07:38,187 :INFO :test_e2e2 :Just clicking on Practice button
+2024-07-28 15:07:48,847 :INFO :test_e2e_login : Just click on Home button
+2024-07-28 15:07:54,968 :INFO :test_e2e_login : Just click on Login button
+2024-07-28 15:07:55,436 :INFO :test_e2e_login : Just enter email as anantbinekar@gmail.com
+2024-07-28 15:07:55,604 :INFO :test_e2e_login : Just enter password as any@0000
